@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Rohit",
+      "username": "rohitsharma",
+      "email": "rohit@gmail.com",
+      "phone": "3433565545",
+      "id": 1
+    },
+    {
+      "name": "Ankit Gupta",
+      "username": "ankit",
+      "email": "ankit@gmail.com",
+      "phone": "22222222222",
+      "id": 4
+    },
+    {
+      "name": "sss",
+      "username": "sss",
+      "email": "xxxx",
+      "phone": "xxxxx",
+      "id": 5
+    }
+  ]
+}
