@@ -30,6 +30,7 @@ const EditUser = () => {
 
   useEffect(() => {
     getUserData();
+    // eslint-disable-next-line
   }, []);
   const getUserData = async () => {
     let response = await getUser(id);
